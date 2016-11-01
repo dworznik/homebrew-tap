@@ -1,8 +1,8 @@
 class Bitwire < Formula
   homepage "https://github.com/dworznik/bitwire"
-  url "https://github.com/dworznik/bitwire/releases/download/v0.0.2/bitwire-0.0.2.tar.gz"
-  sha256 "742b3971d63bd2de8b567e6341ccfe0156aef544fd8dbc0fbc051fbf6c9da7ec"
-  version "0.0.2"
+  url "https://github.com/dworznik/bitwire/releases/download/v0.0.3/bitwire-0.0.3.tar.gz"
+  sha256 "975831c87efae19fcc322fd2180c3542dd6f44ff0ddaad0e752896223e13cf5e"
+  version "0.0.3"
 
   def install
     bin.install "bitwire"
